@@ -1,0 +1,5 @@
+1.點開元件面板最後一格Extension
+2.點選Import extension
+3.選擇要安裝的aix檔
+
+來源: https://community.appinventor.mit.edu/t/tcp-ip-extension/7142
