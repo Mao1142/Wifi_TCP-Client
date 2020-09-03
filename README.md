@@ -1,2 +1,2 @@
-# -Wifi_TCP-Client_CSharp
-c# 編寫的socket client端 DLL &amp; Demo Code
+# -Wifi_TCP-Client
+c# 跟AppIntentor編寫的socket client端 DLL &amp; Demo Code
