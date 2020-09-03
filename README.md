@@ -1,6 +1,20 @@
 # Wifi_TCP-Client
 c# 跟 AppIntentor編寫的socket client端 DLL &amp; Demo Code
 
+## AI2
+
+APP Inventor 專案
+
+需要安裝socket擴充包
+
+## TCP_Client
+
+包裝socket功能的C#DLL
+
+## TCP_Client_Demo
+
+使用DLL的winForm
+
 ## APP Inventor 專案匯入
 
 1 - 開啟AI2 http://ai2.appinventor.mit.edu/?locale=zh_TW
